@@ -16,7 +16,8 @@ It alerts using sound, which can be stopped with an IR remote.
 2. Run the file `movemate_project.py`
 3. Ensure `vehicle_beep.wav` is in the same folder.
 
-## 📂 File Structure
+## Demo Structure
+   demo.png
 
 ## 🙋‍♂️ Author
 Ronak DR
